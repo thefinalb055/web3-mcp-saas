@@ -1,0 +1,6 @@
+# NOTES
+
+Okay, so what we're actually doing here is we are building a starter kit for like an MCP, a web3 MCP SAS, right? It's a full stack starter kit. It has, we're using Next.js for now. We're using, no we are, we're already there. So we're using Next.js, we're using Convex for the backend as a service. We're using BetterAuth for the auth and we're also using Alchemy and it's SDK for generating the smart wallets essentially. So the way this is going to work is it's going to have like a basic marketing site, a way for you to log in, register obviously. When you log in and register, you're going to get your dashboard where you can, where you would get like your MCP settings and whatnot, like you could just copy and paste your MCP settings and some like stats and stuff like that, right? Obviously there's going to be a way for you to see your usage and like to pay as well. 
+
+
+Okay, so what do we need to do? Obviously we've got the... We've got our next JS project here. We need to initialize shad cn. We need to... once we've initialized shad cn, then we can start to do like the Follow the battle morph guide basically to just set it all up. Once we've done that we can pause and see where we are
